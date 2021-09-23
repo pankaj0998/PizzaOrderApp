@@ -1,0 +1,52 @@
+[
+	{
+		"itemId" : 1,
+		"itemName" : "Paneer Cheese Pizza\n",
+		"price" : 300.00
+	},
+	{
+		"itemId" : 2,
+		"itemName" : "Tandoori Paneer Pizza\n",
+		"price" : 300.00
+	},
+	{
+		"itemId" : 3,
+		"itemName" : "Deluxe Margherita Pizza\n",
+		"price" : 450.00
+	},
+	{
+		"itemId" : 4,
+		"itemName" : "Chilly Cheese Toast\n",
+		"price" : 130.00
+	},
+	{
+		"itemId" : 5,
+		"itemName" : "Paneer Tikka Sandwich\n",
+		"price" : 130.00
+	},
+	{
+		"itemId" : 6,
+		"itemName" : "Paneer Tikka Pizza\n",
+		"price" : 400.00
+	},
+	{
+		"itemId" : 7,
+		"itemName" : "Veg Paradise Pizza\n",
+		"price" : 400.00
+	},
+	{
+		"itemId" : 8,
+		"itemName" : "Garlic Bread Stick\n",
+		"price" : 130.00
+	},
+	{
+		"itemId" : 9,
+		"itemName" : "Mexican Pizza\n",
+		"price" : 400.00
+	},
+	{
+		"itemId" : 10,
+		"itemName" : "Italia Cheese Sandwich\n",
+		"price" : 130.00
+	}
+]
